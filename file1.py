@@ -1,2 +1,2 @@
 def hello():
-    print('hello welcomee to git tutorials')
+    print('hello welcome to git tutorials')
